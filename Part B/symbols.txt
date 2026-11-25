@@ -1,0 +1,5 @@
+Symbol	Address	Type
+INIT	10	Label
+ROW	18	Label
+SETBLACK	8	Label
+START	0	Label
